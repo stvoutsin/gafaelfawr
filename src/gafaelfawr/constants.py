@@ -185,7 +185,7 @@ SCOPE_REGEX = "^[a-zA-Z0-9:._-]+$"
 """Regex matching a valid scope."""
 
 USERNAME_REGEX = (
-    "^[a-z0-9](?:[a-z0-9]|-[a-z0-9])*[a-z](?:[a-z0-9]|-[a-z0-9])*$"
+    "^[a-z0-9](?:[a-z0-9]|-[a-z0-9])*[a-z0-9](?:[a-z0-9]|-[a-z0-9])*$"
 )
 """Regex matching all valid usernames."""
 
